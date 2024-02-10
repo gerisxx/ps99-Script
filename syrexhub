@@ -1,15 +1,15 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/gerisxx/LIBv2/main/Source.lua"))()
 
                local Notify = Library:MakeNotify({
-                    Title = "INVALID SCRIPT",
-                    Text = "Get New Script At https://syrexhub.netlify.app/petsim99",
+                    Title = "Get Your Key",
+                    Text = "Get Your Key At https://syrexhub.netlify.app/petsim99",
                     Time = 3
                   })
 
 setclipboard("https://syrexhub.netlify.app/petsim99")
 wait(3)
                local Notify = Library:MakeNotify({
-                    Title = "INVALID SCRIPT",
+                    Title = "Linkvertise",
                     Text = "Copied To Clipboard",
                     Time = 7
                   })
